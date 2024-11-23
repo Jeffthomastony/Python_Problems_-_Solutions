@@ -1,0 +1,9 @@
+#Create a list number = [1, 2, 3, 4]. Write a program to:
+ #Append the number 5 to the end of the list.
+ #Insert the number 0 at the beginning of the list.
+
+
+number = [1, 2, 3, 4]
+number.append(5)
+number.insert(0,0)
+print(number)
