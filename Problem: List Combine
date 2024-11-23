@@ -1,0 +1,10 @@
+# Write a program to combine the two lists list1 = [1, 2, 3] and list2 = ['a', 'b', 'c'] into a single list
+
+
+list1 = [1, 2, 3]
+list2 = ['a', 'b', 'c']
+
+#concatenate the two lists into an another list using '+' operator
+list3 = list1 + list2
+
+print(list3)
