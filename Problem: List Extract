@@ -1,0 +1,7 @@
+# From the list names = ["Alice", "Bob", "Charlie", "Diana", "Eve"], extract the first 3 names using slicing
+
+
+names = ["Alice", "Bob", "Charlie", "Diana", "Eve"]
+
+# use index slicing to extract a specific set of elements from a list
+print(names[:3])
