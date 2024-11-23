@@ -1,0 +1,9 @@
+#Write a program to reverse the list letters = ['a', 'b', 'c', 'd', 'e']
+
+
+letters = ['a', 'b', 'c', 'd', 'e']
+
+#use the reverse() to reverse the list
+letters.reverse()
+
+print(letters)
