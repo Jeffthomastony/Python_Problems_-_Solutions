@@ -1,0 +1,6 @@
+# Write a program to extract the last 4 elements from the list letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+
+# use index slicing to extract a specific set of elements from a list
+print(letters[3:])
