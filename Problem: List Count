@@ -1,0 +1,7 @@
+ # Write a program to count the occurrences of each element in the list colors = ['red', 'blue', 'red', 'green', 'blue', 'blue']
+
+
+colors = ['red', 'blue', 'red', 'green', 'blue', 'blue']
+
+# Use the count method to find the occurence of each element in a list
+print(f"Occurrences of each element: ['red': {colors.count('red')}, 'blue': {colors.count('blue')}, 'green': {colors.count('green')}]")
