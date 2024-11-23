@@ -1,0 +1,8 @@
+#Write a program to:
+ #Create a list of your 5 favorite fruits. 
+ #Print the second and fourth fruit from the list.
+
+
+fruits = ['apple', 'banana', 'orange', 'watermelon', 'cherry']
+print(fruits[1])
+print(fruits[3])
