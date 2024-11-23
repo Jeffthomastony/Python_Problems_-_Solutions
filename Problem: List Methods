@@ -1,9 +1,13 @@
-#Create a list number = [1, 2, 3, 4]. Write a program to:
- #Append the number 5 to the end of the list.
- #Insert the number 0 at the beginning of the list.
+# Create a list number = [1, 2, 3, 4]. Write a program to:
+  # Append the number 5 to the end of the list.
+  # Insert the number 0 at the beginning of the list.
 
 
 number = [1, 2, 3, 4]
+
+# Use append() to add an element to the last position of the list
 number.append(5)
+
+# Use insert() to add an element to a specific position/index in the list
 number.insert(0,0)
 print(number)
