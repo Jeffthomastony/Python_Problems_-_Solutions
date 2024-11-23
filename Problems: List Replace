@@ -1,0 +1,13 @@
+# Replace the second and third elements of the list colors = ['red', 'blue', 'green', 'yellow'] with ['purple', 'orange']
+
+colors = ['red', 'blue', 'green', 'yellow']
+
+#First remove the second and third elements
+colors.remove('blue')
+colors.remove('green')
+
+#Then add the elements you want to the second and third postions of the list
+colors.insert(1,'purple')
+colors.insert(2, 'orange')
+
+print(colors)
