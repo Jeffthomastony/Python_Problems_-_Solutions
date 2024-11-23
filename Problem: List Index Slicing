@@ -3,5 +3,5 @@
 
 numbers = [10, 20, 30, 40, 50, 60]
 
-# use index slicing to extract specific set of elements from a list
+# Use index slicing to extract specific set of elements from a list
 print(numbers[2:5])
