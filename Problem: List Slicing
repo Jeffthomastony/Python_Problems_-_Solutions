@@ -1,0 +1,7 @@
+#Write a program to extract the last 3 elements from the list numbers = [100, 200, 300, 400, 500, 600]
+
+
+numbers = [100, 200, 300, 400, 500, 600]
+
+#use slicing to extract the last three elements 
+print(numbers[3:])
